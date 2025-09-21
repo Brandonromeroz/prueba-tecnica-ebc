@@ -22,6 +22,10 @@ La aplicación es una tabla interactiva hecha en **HTML, CSS y JavaScript** que 
 
 ---
 
+## 📷 Vista previa de la aplicación
+
+![Captura de la aplicación](screenshot.png)
+
 ## 🖥️ Cómo usar
 1. Descargar o clonar este repositorio.  
    ```bash
